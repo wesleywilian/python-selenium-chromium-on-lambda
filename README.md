@@ -78,7 +78,7 @@ Run selenium scripts in python with chromium on aws lambdas on **easy way** usin
     null
     ```
 
-## Components versions
+## Component versions
 
 - Selenium: 3.141.0 (app/requirements.txt)
 - Chromium: 92.0.4515.0 (app/Dockerfile)
